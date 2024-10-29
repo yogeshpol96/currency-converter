@@ -37,7 +37,7 @@ Internet connection and make sure you have a modern web browser installed. No ad
 ## Acknowledgments
 
 Thanks to Fawaz Ahmed for providing the currency API for exchange rates.<br/>
-Thanks to (https://flagsapi.com/) for providing high-quality country flag images used in the app.
+Thanks to (https://flagsapi.com/) for providing high-quality country flag images used in the app.<br/>
 Thanks to Font Awesome for the icon set.
 
 ## Screenshots
