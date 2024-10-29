@@ -1,8 +1,9 @@
 const BASE_URL =
   "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies";
 
-const dropdowns = document.querySelectorAll(".dropdown select");
-const btn = document.querySelector("form button");
+
+const dropdowns = document.querySelectorAll(".country select");
+const btn = document.querySelector(".submit-button");
 const fromCurr = document.querySelector(".from select");
 const toCurr = document.querySelector(".to select");
 const msg = document.querySelector(".msg");
@@ -26,7 +27,7 @@ for (let select of dropdowns) {
 }
 
 const updateExchangeRate = async () => {
-  let amount = document.querySelector(".amount input");
+  let amount = document.querySelector(".amount-input");
   let amtVal = amount.value;
   if (amtVal === "" || amtVal < 1) {
     amtVal = 1;
