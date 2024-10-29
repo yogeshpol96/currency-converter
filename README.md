@@ -4,7 +4,7 @@ A simple and user-friendly Currency Converter web application built using HTML5,
 
 ## Live Demo
 
-You can view the live demo of this web App [here](https://yogeshpol96.github.io/Currency-Converter-webApp/).
+You can view the live demo of this web App [here](https://yogeshpol96.github.io/Currency-Converter/).
 
 ## Features 
 
