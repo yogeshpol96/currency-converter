@@ -40,7 +40,7 @@ Thanks to Fawaz Ahmed for providing the currency API for exchange rates.<br/>
 Thanks to (https://flagsapi.com/) for providing high-quality country flag images used in the app.<br/>
 Thanks to Font Awesome for the icon set.
 
-## Screenshots
+## Screenshot
 
 ![screenshot](App-Screenshots/CurrencyConverter.png)
 
